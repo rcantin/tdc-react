@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tdc-react/static/css/main.9adc31bf.chunk.css",
+    "main.js": "/tdc-react/static/js/main.9cf3aa29.chunk.js",
+    "main.js.map": "/tdc-react/static/js/main.9cf3aa29.chunk.js.map",
+    "runtime-main.js": "/tdc-react/static/js/runtime-main.efec510d.js",
+    "runtime-main.js.map": "/tdc-react/static/js/runtime-main.efec510d.js.map",
+    "static/js/2.a018870b.chunk.js": "/tdc-react/static/js/2.a018870b.chunk.js",
+    "static/js/2.a018870b.chunk.js.map": "/tdc-react/static/js/2.a018870b.chunk.js.map",
+    "static/js/3.bf6859ab.chunk.js": "/tdc-react/static/js/3.bf6859ab.chunk.js",
+    "static/js/3.bf6859ab.chunk.js.map": "/tdc-react/static/js/3.bf6859ab.chunk.js.map",
+    "index.html": "/tdc-react/index.html",
+    "static/css/main.9adc31bf.chunk.css.map": "/tdc-react/static/css/main.9adc31bf.chunk.css.map",
+    "static/js/2.a018870b.chunk.js.LICENSE.txt": "/tdc-react/static/js/2.a018870b.chunk.js.LICENSE.txt",
+    "static/media/tdclogo-whitetext.5979c787.svg": "/tdc-react/static/media/tdclogo-whitetext.5979c787.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efec510d.js",
+    "static/js/2.a018870b.chunk.js",
+    "static/css/main.9adc31bf.chunk.css",
+    "static/js/main.9cf3aa29.chunk.js"
+  ]
+}
