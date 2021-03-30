@@ -1,17 +1,26 @@
-import logo from "./img/tdclogo-whitetext.svg";
+import React from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "./theme.scss";
 import Banner from "./components/Banner";
-import Button from "react-bootstrap/Button";
+import Home from "./components/Home";
+import Contact from "./components/Contact";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <Banner />
-      <Button variant="pink">Test Button</Button>
-      <Button variant="purple">Another Button</Button>
-      <Button variant="blue">Last Button</Button>
-    </div>
+    <Router>
+      <div>
+        <Banner />
+        <div className="container">
+          <Switch>
+            <Route exact path="/">
+              <Home />
+            </Route>
+            <Route path="/contact">
+              <Contact />
+            </Route>
+          </Switch>
+        </div>
+      </div>
+    </Router>
   );
 }
-
-export default App;
