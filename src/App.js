@@ -1,11 +1,15 @@
 import logo from "./img/tdclogo-whitetext.svg";
-import "./App.css";
+import "./theme.scss";
+import Banner from "./components/Banner";
+import Button from "react-bootstrap/Button";
 
 function App() {
   return (
     <div className="App">
-      <h1>TDC-REACT</h1>
-      <img src={logo} alt="TDC-Logo" className="mainLogo" />
+      <Banner />
+      <Button variant="pink">Test Button</Button>
+      <Button variant="purple">Another Button</Button>
+      <Button variant="blue">Last Button</Button>
     </div>
   );
 }
