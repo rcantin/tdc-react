@@ -7,7 +7,7 @@ import Contact from "./components/Contact";
 
 export default function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div>
         <Banner />
         <div className="container">
