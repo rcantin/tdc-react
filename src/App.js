@@ -7,7 +7,7 @@ import Contact from "./components/Contact";
 
 export default function App() {
   return (
-    <Router basename="tdc-react">
+    <Router>
       <div>
         <Banner />
         <div className="container">
