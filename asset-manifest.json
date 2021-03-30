@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tdc-react/static/css/main.68241853.chunk.css",
-    "main.js": "/tdc-react/static/js/main.1e01614b.chunk.js",
-    "main.js.map": "/tdc-react/static/js/main.1e01614b.chunk.js.map",
-    "runtime-main.js": "/tdc-react/static/js/runtime-main.ef9e0825.js",
-    "runtime-main.js.map": "/tdc-react/static/js/runtime-main.ef9e0825.js.map",
-    "static/js/2.6333a0c3.chunk.js": "/tdc-react/static/js/2.6333a0c3.chunk.js",
-    "static/js/2.6333a0c3.chunk.js.map": "/tdc-react/static/js/2.6333a0c3.chunk.js.map",
-    "index.html": "/tdc-react/index.html",
-    "static/css/main.68241853.chunk.css.map": "/tdc-react/static/css/main.68241853.chunk.css.map",
-    "static/js/2.6333a0c3.chunk.js.LICENSE.txt": "/tdc-react/static/js/2.6333a0c3.chunk.js.LICENSE.txt",
-    "static/media/tdclogo-whitetext.5979c787.svg": "/tdc-react/static/media/tdclogo-whitetext.5979c787.svg"
+    "main.css": "./static/css/main.68241853.chunk.css",
+    "main.js": "./static/js/main.1e01614b.chunk.js",
+    "main.js.map": "./static/js/main.1e01614b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.202332b4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.202332b4.js.map",
+    "static/js/2.6333a0c3.chunk.js": "./static/js/2.6333a0c3.chunk.js",
+    "static/js/2.6333a0c3.chunk.js.map": "./static/js/2.6333a0c3.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.68241853.chunk.css.map": "./static/css/main.68241853.chunk.css.map",
+    "static/js/2.6333a0c3.chunk.js.LICENSE.txt": "./static/js/2.6333a0c3.chunk.js.LICENSE.txt",
+    "static/media/tdclogo-whitetext.5979c787.svg": "./static/media/tdclogo-whitetext.5979c787.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef9e0825.js",
+    "static/js/runtime-main.202332b4.js",
     "static/js/2.6333a0c3.chunk.js",
     "static/css/main.68241853.chunk.css",
     "static/js/main.1e01614b.chunk.js"
