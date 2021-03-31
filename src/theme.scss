@@ -1,3 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap");
+@import "./custom-font.scss";
+
+$font-family-base: "Roboto Condensed", sans-serif;
+
+.tdc-font {
+  font-family: "You Are Loved", "Roboto Condensed", Arial, sans-serif !important;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+$headings-font-weight: 700;
+
+$btn-border-radius: 50px;
+$btn-border-radius-lg: 80px;
+$btn-border-radius-sm: 40px;
+
 $theme-colors: (
   "primary": #ed0e7b,
   "secondary": #844d9e,
@@ -14,6 +31,52 @@ $theme-colors: (
   "orange": #ff6e00,
   "green": #33cc00,
   "red": #ff0000,
+  "white": #ffffff,
+  "black": #000000,
 );
+
+$label-margin-bottom: 0.25rem;
+
+$input-btn-padding-y: 0.25rem;
+$input-btn-padding-x: 1.5rem;
+$input-btn-padding-y-sm: 0.25rem;
+$input-btn-padding-x-sm: 1.5rem;
+$input-btn-padding-y-lg: 0.25rem;
+$input-btn-padding-x-lg: 1.5rem;
+
+$navbar-dark-color: map-get($theme-colors, "white");
+$navbar-dark-hover-color: rgba(map-get($theme-colors, "white"), 0.75);
+$navbar-dark-active-color: map-get($theme-colors, "white");
+$navbar-dark-disabled-color: rgba(map-get($theme-colors, "white"), 0.25);
+$navbar-dark-toggler-border-color: map-get($theme-colors, "white");
+
+.grow {
+  transition: all 0.1s ease-in-out;
+}
+.grow:hover {
+  transform: scale(1.025);
+  filter: brightness(110%);
+}
+.grow a {
+  text-decoration: none !important;
+}
+
+.btn {
+  border-width: 0 !important;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.7) 0%, rgba(255, 255, 255, 0.2) 45%, rgba(0, 0, 0, 0) 45%, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.2) 100%);
+  -moz-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.4);
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.4);
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.4);
+}
+
+.orbGrid {
+  > div {
+    padding: 1rem;
+    img {
+      max-width: 110px;
+      cursor: pointer;
+    }
+  }
+}
 
 @import "~bootstrap/scss/bootstrap.scss";
