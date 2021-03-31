@@ -1,21 +1,35 @@
 {
   "files": {
-    "main.css": "/tdc-react/static/css/main.68241853.chunk.css",
-    "main.js": "/tdc-react/static/js/main.b083cd5b.chunk.js",
-    "main.js.map": "/tdc-react/static/js/main.b083cd5b.chunk.js.map",
+    "main.css": "/tdc-react/static/css/main.a0571929.chunk.css",
+    "main.js": "/tdc-react/static/js/main.748834d8.chunk.js",
+    "main.js.map": "/tdc-react/static/js/main.748834d8.chunk.js.map",
     "runtime-main.js": "/tdc-react/static/js/runtime-main.ef9e0825.js",
     "runtime-main.js.map": "/tdc-react/static/js/runtime-main.ef9e0825.js.map",
-    "static/js/2.6333a0c3.chunk.js": "/tdc-react/static/js/2.6333a0c3.chunk.js",
-    "static/js/2.6333a0c3.chunk.js.map": "/tdc-react/static/js/2.6333a0c3.chunk.js.map",
+    "static/js/2.f274e656.chunk.js": "/tdc-react/static/js/2.f274e656.chunk.js",
+    "static/js/2.f274e656.chunk.js.map": "/tdc-react/static/js/2.f274e656.chunk.js.map",
     "index.html": "/tdc-react/index.html",
-    "static/css/main.68241853.chunk.css.map": "/tdc-react/static/css/main.68241853.chunk.css.map",
-    "static/js/2.6333a0c3.chunk.js.LICENSE.txt": "/tdc-react/static/js/2.6333a0c3.chunk.js.LICENSE.txt",
-    "static/media/tdclogo-whitetext.5979c787.svg": "/tdc-react/static/media/tdclogo-whitetext.5979c787.svg"
+    "static/css/main.a0571929.chunk.css.map": "/tdc-react/static/css/main.a0571929.chunk.css.map",
+    "static/js/2.f274e656.chunk.js.LICENSE.txt": "/tdc-react/static/js/2.f274e656.chunk.js.LICENSE.txt",
+    "static/media/bacare.83eaa0fe.svg": "/tdc-react/static/media/bacare.83eaa0fe.svg",
+    "static/media/barbella.e9562ab1.svg": "/tdc-react/static/media/barbella.e9562ab1.svg",
+    "static/media/birthdays.9dd03ca3.svg": "/tdc-react/static/media/birthdays.9dd03ca3.svg",
+    "static/media/camps.79f5ad50.svg": "/tdc-react/static/media/camps.79f5ad50.svg",
+    "static/media/chiropractic.fc4308e6.svg": "/tdc-react/static/media/chiropractic.fc4308e6.svg",
+    "static/media/dance.579e3e0c.svg": "/tdc-react/static/media/dance.579e3e0c.svg",
+    "static/media/familytree.1a8bff7a.svg": "/tdc-react/static/media/familytree.1a8bff7a.svg",
+    "static/media/gymnastics.414374a3.svg": "/tdc-react/static/media/gymnastics.414374a3.svg",
+    "static/media/martialarts.bc8fd10e.svg": "/tdc-react/static/media/martialarts.bc8fd10e.svg",
+    "static/media/music.1f01b8e2.svg": "/tdc-react/static/media/music.1f01b8e2.svg",
+    "static/media/ninja.e7d6e4b5.svg": "/tdc-react/static/media/ninja.e7d6e4b5.svg",
+    "static/media/photo-sarah-main.f9e407a7.jpg": "/tdc-react/static/media/photo-sarah-main.f9e407a7.jpg",
+    "static/media/tdclogo-whitetext.5979c787.svg": "/tdc-react/static/media/tdclogo-whitetext.5979c787.svg",
+    "static/media/theatre.769e3ee3.svg": "/tdc-react/static/media/theatre.769e3ee3.svg",
+    "static/media/theme.scss": "/tdc-react/static/media/you_are_loved-webfont.fdb5035e.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.ef9e0825.js",
-    "static/js/2.6333a0c3.chunk.js",
-    "static/css/main.68241853.chunk.css",
-    "static/js/main.b083cd5b.chunk.js"
+    "static/js/2.f274e656.chunk.js",
+    "static/css/main.a0571929.chunk.css",
+    "static/js/main.748834d8.chunk.js"
   ]
 }
